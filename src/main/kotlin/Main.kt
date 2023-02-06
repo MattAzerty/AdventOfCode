@@ -17,7 +17,20 @@ fun main() {
     */
 
 //CODE003
+    /*
     val data03 = File("data/data03.txt").readText()
     Data03.answerQuestion(data03)
-}
+    */
+
+//CODE004
+    /*
+    val data04 = "ckczppom"
+    Data04.answerQuestion(data04)
+    */
+
+//CODE005
+    val data05 = File("data/data05.txt").readLines()
+    Data05.answerQuestion(data05)
+
+}//End of main
 
