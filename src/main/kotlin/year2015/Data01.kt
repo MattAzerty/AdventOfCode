@@ -1,3 +1,4 @@
+package year2015
 
 class Data01 {
 
@@ -20,8 +21,8 @@ class Data01 {
                 }
             }
 
-            println("Result for part one: $floorResult.")
-            println("Result for part two: $floorPosition.")
+            println("Each instructions made Santa goes to floor number: $floorResult.")
+            println("At the: $floorPosition instructions, Santa was in floor -1")
 
         }
     }
