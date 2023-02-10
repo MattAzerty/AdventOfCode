@@ -23,11 +23,16 @@ fun main() {
     val dataY2021D04 = File("data/2021/data04.txt").readText()
     println("-----YEAR2021DAY004-----")
     year2021.Data04.answerQuestion(dataY2021D04)
-*/
+
 //CODE005
     val dataY2021D05 = File("data/2021/data05.txt").readLines()
     println("-----YEAR2021DAY005-----")
     year2021.Data05.answerQuestion(dataY2021D05)
+*/
+//CODE006
+    val dataY2021D06 = File("data/2021/data06.txt").readText()
+    println("-----YEAR2021DAY006-----")
+    year2021.Data06.answerQuestion(dataY2021D06)
 
 //----------------------------------------//https://adventofcode.com/2015
 /*
